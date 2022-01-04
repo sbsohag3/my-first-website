@@ -13,9 +13,9 @@ p{
     font-family: 'Island Moments', cursive;
     font-size: 30px
 }
-section{
+.flaxibal-containar{
     display: flex;
-    margin-bottom: 200px;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -42,4 +42,35 @@ section{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.exprince-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:left center;
+}
+h3{
+    color: rgb(211, 43, 43);
+}
+.exprince-item{
+    box-shadow: 10px 10px 50px gray;
+    width: 44%;
+    padding: 10px;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 20px;
+    border-radius: 10px;
+   
+}
+#web-developer{
+    border-left: 7px solid;
+    border-image: linear-gradient(aqua, red);
+    border-image-slice: 1;
+}
+#baby-developer{
+    border-left: 7px solid;
+    border-image: linear-gradient(red, #C9868C);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
 }
