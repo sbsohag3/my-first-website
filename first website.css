@@ -1,0 +1,39 @@
+body{
+    font-family: 'Island Moments', cursive;
+    font-family: 'Poppins', sans-serif;
+    margin:0px;
+}
+h1{
+    font-size: 40px;
+}
+.color{
+    color: aqua;
+}
+p{
+    font-family: 'Island Moments', cursive;
+    font-size: 30px
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 10px;
+}
+.half-width img{
+    width: 100%;
+}
+.half-width p{
+    width: 80%;
+}
+.button{
+    text-decoration: none;
+  background-image: linear-gradient(aqua, #C9868C);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.top-banar{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
