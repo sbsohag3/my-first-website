@@ -29,7 +29,7 @@ p{
 }
 .button{
     text-decoration: none;
-  background-image: linear-gradient(aqua, #C9868C);
+    background-image: linear-gradient(aqua, #C9868C);
     padding: 10px 40px;
     border-radius: 5px;
     font-weight: 700;
